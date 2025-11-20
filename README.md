@@ -9,6 +9,7 @@
 
 一个基于J2EE框架开发的多平台虚拟货币代充系统，为QQ币、抖音币、快手币等主流平台提供安全、稳定、高效的在线充值服务解决方案。
 
+![image](https://raw.githubusercontent.com/sexyCs258369/paymentService/refs/heads/main/%E9%A6%96%E9%A1%B51.png)
 ## ✨ 核心功能
 
 ### 🎯 多平台支持
