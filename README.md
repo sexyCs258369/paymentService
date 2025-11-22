@@ -1,8 +1,6 @@
 # 平台货币代充系统
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.8+-green.svg)
-![Django](https://img.shields.io/badge/django-4.0+-brightgreen.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
 ## 📖 项目简介
